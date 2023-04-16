@@ -1,0 +1,33 @@
+body {
+	color: #dcdcdc;
+	background: #121212;
+	text-align: center;
+	font-family: "Monospace";
+	font-size: 11;
+}
+
+a {
+	text-decoration: none;
+	color: #b4b4b4;
+}
+
+p {
+	display: inline;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+h2 {
+	color: "#b4b4b4";
+}
+
+h2, h3, h4 {
+	display: inline;
+}
+
+.connection-icon-link {
+	width: 28px;
+	color: white;
+}
